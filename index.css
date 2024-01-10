@@ -1,0 +1,11 @@
+a {
+    color: black;
+}
+
+a:hover {
+    color: red;
+}
+
+a:visited {
+    color: rgb(54, 54, 54);
+}
