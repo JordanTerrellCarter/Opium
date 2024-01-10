@@ -2,17 +2,9 @@
     color: rgb(63, 61, 61);
 }
 
-
-
- 
-
-
-
-
-
-
-
-
+body {
+    background-image: url(https://live.staticflickr.com/7047/6859581949_31fca8effd_b.jpg);
+}
 
 a {
     color: black;
