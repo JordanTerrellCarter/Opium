@@ -1,5 +1,5 @@
 .magnolia {
-    color: rgb(63, 61, 61);
+    color: grey;
 }
 
 body {
@@ -14,6 +14,10 @@ a:hover {
     color: red;
 }
 
+a:active {
+    color: red;
+}
+
 a:visited {
-    color: rgb(54, 54, 54);
+    color: black;
 }
